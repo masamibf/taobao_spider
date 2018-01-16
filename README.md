@@ -1,1 +1,3 @@
 # taobao_spider
+
+用selenium或phantomjs爬取淘宝美食信息
